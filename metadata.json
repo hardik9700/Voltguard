@@ -1,0 +1,7 @@
+{
+  "name": "VoltGuard",
+  "description": "A premium EV battery intelligence tool that explains consequences, not just data. Features a human-readable timeline, predictive health simulation, and consequence-based fleet insights.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
